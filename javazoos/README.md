@@ -1,3 +1,7 @@
+[Introduction](#introduction)
+[Database Layout](#database-layout)
+[MVP](#mvp)
+
 # Java Zoos
 
 A student that completes this project shows that they can:
