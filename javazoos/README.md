@@ -1,6 +1,6 @@
-[Introduction](#introduction)
-[Database Layout](#database-layout)
-[MVP](#mvp)
+##[Introduction](#introduction)  
+##[Database Layout](#database-layout)  
+##[MVP](#mvp)
 
 # Java Zoos
 
